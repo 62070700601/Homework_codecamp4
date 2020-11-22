@@ -1,2 +1,2 @@
 # Homework_codecamp4
-  นายเขตต์ตะวัน มะลิแย้ม
+  Khettawan Maliyaem For learning Data Science
